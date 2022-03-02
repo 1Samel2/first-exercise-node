@@ -1,0 +1,23 @@
+{
+  "name": "first-node-exercicio",
+  "version": "1.0.0",
+  "description": "primeiro projeto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "test-projeto"
+  ],
+  "author": "samuel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodeman": "^1.1.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
